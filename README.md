@@ -62,3 +62,5 @@ Data file berformat CSV
 
 
 Dari hasil pengolahan data diatas dapat disimpulkan bahwa semakin tinggi fitoplankton yang terkandung di dalam air maka semakin tinggi klorofil. hal ini karena fitoplankton memunyai dan menggunakan klorofil untuk berfotosintesis.
+
+#### sumberdata: marine.copernicus.eu
